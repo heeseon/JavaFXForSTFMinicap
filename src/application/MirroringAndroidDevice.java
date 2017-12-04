@@ -21,7 +21,7 @@ import java.net.UnknownHostException;
 *
 * @author zoranpavlovic.blogspot.com
 */
-public class LoadImage extends Application {
+public class MirroringAndroidDevice extends Application {
 	
 	Socket clientSocket = null;
 	 final Canvas canvas = new Canvas(720, 1280);
